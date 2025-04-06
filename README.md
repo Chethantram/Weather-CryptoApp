@@ -25,16 +25,11 @@ This project is a web application built using modern web development technologie
 
 ## Installation
 
-### Prerequisites
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone  https://github.com/Chethantram/Weather-CryptoApp.git
+    cd your-folder-name
     ```
 
 2. Install dependencies:
